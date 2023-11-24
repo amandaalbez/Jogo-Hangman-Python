@@ -10,7 +10,7 @@ O jogador então tenta adivinhar as letras, e o jogo continua até que a palavra
 </li>
 
 **<h2>🎮💻 Jogo Funcionando:</h2>**
-
+![jogo py - Jogo da Forca - Python - Visual Studio Code 2023-11-24 13-13-37](https://github.com/amandaalbez/Jogo-Hangman-Python/assets/104281621/60a52c44-3dea-4f37-880b-b100dc72d3bc)
 
 **<h2>⚙ Tecnologia Ultilizada:</h2>**
 <div align="center">
